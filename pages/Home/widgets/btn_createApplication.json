@@ -16,7 +16,7 @@
     "hideCard": false,
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 40,
+    "leftColumn": 58,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -25,7 +25,7 @@
     "isDisabled": false,
     "key": "4t4k423bcc",
     "isDeprecated": false,
-    "rightColumn": 47,
+    "rightColumn": 64,
     "isDefaultClickDisabled": true,
     "widgetId": "k2wons80rz",
     "minWidth": 120,
